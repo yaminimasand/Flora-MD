@@ -51,6 +51,7 @@ The model used for plant disease classification is a CNN model. It has been trai
 * Healthy
 * Powdery
 * Rust
+
 The model's architecture and weights are loaded from the plant_disease_classifier.h5 file.
 
 Demo
