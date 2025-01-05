@@ -34,8 +34,7 @@ Usage
 ---
 1. Clone the repository:
    ```
-   git clone
-   cd Plant_Disease_Detection_using_CNN
+   git clone https://github.com/yaminimasand/Flora-MD
    ```
 2. Place the model weights file (plant_disease_classifier.h5) in the weights directory.
 3. Run the Streamlit app:
